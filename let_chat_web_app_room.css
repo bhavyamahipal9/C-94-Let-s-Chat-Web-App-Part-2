@@ -1,0 +1,40 @@
+#title {
+    font-family: 'Dancing Script', cursive;
+}
+
+body {
+    background-size: cover;
+    position: center;
+}
+
+#main {
+    margin-left: 200px;
+    margin-top: 200px;
+    color:white;
+}
+
+#log_out {
+    float: right;
+    margin-top: 50px;
+    margin-right: 250px;
+    background-color: red;
+}
+
+#room_name_title {
+    font-size: 50px;
+    margin-right: 200px;
+}
+
+#room_name {
+    margin-right: 200px;
+    font-size: 15px;
+}
+
+#add_room {
+    margin-right: 200px;
+    font-size: 25px;
+}
+
+#room_name_created {
+    font-size: 25px;
+}
